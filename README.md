@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Welcome to My GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=🔓 Breaking+to+Learn;🧠 Researching+Security;🧩 Exploring+ML+%7C+Networks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=550&lines=🔓+Breaking+to+Learn;🧠+Security+Researcher+%7C+Network+Ninja+%7C+ML+Seeker" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 | 🔐 Vulnerability Research | GDB, pwndbg, memory corruption, binary reversing |
 | 🌐 Network Security | TCP/IP internals, packet analysis, IDS/IPS fundamentals |
 | 🤖 AI for Security | ML/DL theory & application in threat detection |
-| ⚙️ Systems | QEMU usage, embedded Linux, system internals |
+| ⚙️ Systems | Windows, MacOS, Linux, system internals |
 
 ---
 
@@ -48,18 +48,10 @@
 
 ---
 
-### 🌿 Contribution Graph (Grass)
+### 🧩 Contribution Graph (Real Grass)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root-brainoverflow&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-brainoverflow&layout=compact&langs_count=6&exclude_repo=CV,old_projects&theme=github_dark" />
+  <img src="https://ghchart.rshah.org/219EBC/root-brainoverflow" alt="GitHub contribution chart" />
 </p>
 
 ---
@@ -71,5 +63,5 @@
 ---
 
 <p align="center">
-  🎯 <em>Currently building cool (and possibly dangerous) things.</em>
+  🧪 <em>Currently building cool (and possibly dangerous) things.</em>
 </p>
