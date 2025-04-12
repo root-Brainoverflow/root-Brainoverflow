@@ -42,7 +42,7 @@
 | 🔐 Vulnerability Research | GDB, pwndbg, memory corruption, binary reversing |
 | 🌐 Network Security | TCP/IP internals, packet analysis, IDS/IPS fundamentals |
 | 🤖 AI for Security | ML/DL theory & application in threat detection |
-| ⚙️ Systems | QEMU usage, embedded Linux, system internals
+| ⚙️ Systems | Windows, MacOS, Linux, system internals |
 
 ---
 
@@ -50,6 +50,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=github_dark&border_radius=10&hide_rank=false" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=root-brainoverflow&theme=github-compact&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -64,10 +72,11 @@
 
 ### 📫 Contact
 
-- 📧 Email: [root@brainoverflow.kr](mailto:root@brainoverflow.kr)
+- Email: [root@brainoverflow.kr](mailto:root@brainoverflow.kr)
+- Blog: [https://brainoverflow.kr](https://brainoverflow.kr)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:000000&height=120&section=footer"/>
+  🚧 Currently building cool (and possibly dangerous) things.
 </p>
