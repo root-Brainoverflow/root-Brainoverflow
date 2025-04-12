@@ -1,11 +1,7 @@
 <h1 align="center">🧠 Welcome to My GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🔓+Breaking+systems+to+build+them+better;🧠+Vuln+Researcher+%7C+Network+Thinker+%7C+ML+Seeker" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=550&lines=🔓 Breaking+to+Learn;🧠 Researching+Security;🧩 Exploring+ML+%7C+Networks" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,8 +25,6 @@
   <img src="https://img.shields.io/badge/MachineLearning-1A1A1A?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
   <img src="https://img.shields.io/badge/DeepLearning-1A1A1A?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
   <img src="https://img.shields.io/badge/NetworkSecurity-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QEMU-1A1A1A?style=for-the-badge&logo=qemu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinuxKernel-1A1A1A?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
@@ -42,22 +36,22 @@
 | 🔐 Vulnerability Research | GDB, pwndbg, memory corruption, binary reversing |
 | 🌐 Network Security | TCP/IP internals, packet analysis, IDS/IPS fundamentals |
 | 🤖 AI for Security | ML/DL theory & application in threat detection |
-| ⚙️ Systems | Windows, MacOS, Linux, system internals |
+| ⚙️ Systems | QEMU usage, embedded Linux, system internals |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=github_dark&border_radius=10&hide_rank=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=github_dark&border_radius=10" />
 </p>
 
 ---
 
-### 🌱 Contribution Graph
+### 🌿 Contribution Graph (Grass)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=root-brainoverflow&theme=github-compact&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=root-brainoverflow&theme=github-compact&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -65,18 +59,17 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-brainoverflow&layout=compact&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-brainoverflow&layout=compact&langs_count=6&exclude_repo=CV,old_projects&theme=github_dark" />
 </p>
 
 ---
 
 ### 📫 Contact
 
-- Email: [root@brainoverflow.kr](mailto:root@brainoverflow.kr)
-- Blog: [https://brainoverflow.kr](https://brainoverflow.kr)
+- 📧 Email: [root@brainoverflow.kr](mailto:root@brainoverflow.kr)
 
 ---
 
 <p align="center">
-  🚧 Currently building cool (and possibly dangerous) things.
+  🎯 <em>Currently building cool (and possibly dangerous) things.</em>
 </p>
