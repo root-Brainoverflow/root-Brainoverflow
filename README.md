@@ -1,7 +1,7 @@
 <h1 align="center">👾Welcome to My GitHub👾</h1>
 
 <p align="center">
-  <strong>Understanding how systems break — and how to make them stronger.</strong>
+  <strong>Mason Jeon / Brainoverflow</strong>
 </p>
 
 <p align="center">
