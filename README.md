@@ -1,7 +1,7 @@
-<h1 align="center">🧠 Welcome to My GitHub</h1>
+<h1 align="center">👾Welcome to My GitHub👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&center=true&vCenter=true&width=550&lines=🔓+Breaking+to+Learn;🧠+Security+Researcher+%7C+Network+Ninja+%7C+ML+Seeker" alt="Typing SVG" />
+  <strong>Understanding how systems break — and how to make them stronger.</strong>
 </p>
 
 <p align="center">
