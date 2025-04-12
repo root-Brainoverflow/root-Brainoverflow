@@ -32,8 +32,8 @@
 |------|------|
 | 🔐 보안 분석 | Exploit Dev, GDB, pwndbg, Reverse Engineering |
 | 📡 네트워크 | TCP/IP Deep Dive, Packet Crafting, IDS/IPS |
-| 🤖 인공지능 | PyTorch 기반 CNN, Adversarial Examples |
-| ⚙️ 시스템 | QEMU, Embedded Linux, Kernel Debugging |
+| 🤖 인공지능 | ML, CNN, Adversarial Examples |
+| ⚙️ 시스템 | Windows, MacOS, Linux, Kernel Debugging |
 
 <p align="center">
   <img src="https://img.shields.io/badge/ExploitDev-grey?style=for-the-badge&logo=c&logoColor=white"/>
