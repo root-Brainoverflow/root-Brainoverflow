@@ -22,7 +22,7 @@
 ### 💻 Tech Stack
 - 🛡️ C/C++, Python, Bash
 - 🧠 PyTorch, TensorFlow
-- 📡 Wireshark, Ghidra, IDA, QEMU, AFL++
+- 📡 Wireshark, IDA, QEMU, AFL++
 
 ---
 
@@ -57,14 +57,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=root-brainoverflow&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
-
-### 👁 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=root-brainoverflow&label=Profile%20Views&color=blueviolet&style=flat" alt="Visitor Count" />
 </p>
 
 ---
