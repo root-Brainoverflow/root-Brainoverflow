@@ -6,6 +6,7 @@
 
 <p align="center">
   <code>Vulnerability Hunter</code> |
+  <code>Malware Analyst(Sigma)</code> |
   <code>Network Defender</code> |
   <code>Machine Learning Explorer</code><br>
   <code>Embedded & Mobility Enthusiast</code>
