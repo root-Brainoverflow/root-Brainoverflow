@@ -11,10 +11,6 @@
   <code>Embedded & Mobility Enthusiast</code>
 </p>
 
-<p align="center">
-  <strong><em>Curiosity-driven. Security-obsessed. Learning-oriented.</em></strong>
-</p>
-
 ---
 
 ### 🛠️ Tech Focus
