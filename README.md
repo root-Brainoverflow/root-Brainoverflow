@@ -38,8 +38,8 @@
 ---
 
 ### 📌 Published CVEs
-- CVE-2023-50245 / CVSS 9.8 / CWE-120 / Buffer Copy without Checking Size of Input  
-- CVE-2025-53015 / **RESERVED**
+- **CVE-2023-50245** | CVSS 9.8 / CWE-120 / Buffer Copy without Checking Size of Input  
+- **CVE-2025-53015** | RESERVED
 
 ---
 
