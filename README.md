@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=github_dark&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&count_private=true&show_icons=true&theme=github_dark&border_radius=10" />
 </p>
 
 ---
