@@ -37,11 +37,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=github_dark&border_radius=10" />
-</p>
+### 📌 Published CVEs
+- CVE-2023-50245 / CVSS 9.8 / CWE-120 / Buffer Copy without Checking Size of Input  
+- CVE-2025-53015 / **RESERVED**
 
 ---
 
@@ -53,10 +51,12 @@
 
 ---
 
-### 📌 Published CVEs
-- CVE-2023-50245 | CVSS 9.8 / CWE-120 / Buffer Copy without Checking Size of Input  
-- CVE-2025-53015 | **RESERVED**
-  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=github_dark&border_radius=10" />
+</p>
+
 ---
 
 ### 📫 Contact
