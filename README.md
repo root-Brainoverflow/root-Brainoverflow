@@ -54,7 +54,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=radical&hide=contribs,prs,issues" alt="GitHub Stats" />
+  <b>Mason Jeon's GitHub Statistics</b>
+</p>
+
+<p align="center">
+  ⭐️ <strong>Stars:</strong> 102 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🍴 <strong>Forks:</strong> 15 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔁 <strong>All-time contributions:</strong> 5,235<br>
+  📝 <strong>Lines of code changed:</strong> 1,144,719<br>
+  👀 <strong>Repository views (past two weeks):</strong> 180<br>
+  📦 <strong>Repositories with contributions:</strong> 123
 </p>
 
 ---
