@@ -51,6 +51,18 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=root-brainoverflow&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 📫 Contact
 
 - 📧 Email: [root@brainoverflow.kr](mailto:root@brainoverflow.kr)
