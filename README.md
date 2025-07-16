@@ -54,13 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Stars-102-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Forks-15-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/All--time_Contributions-5,235-181717?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Lines_of_Code_Changed-1,144,719-181717?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Repo_Views_(2weeks)-180-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Repos_with_Contributions-123-181717?style=for-the-badge&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=root-brainoverflow&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=root-brainoverflow&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p
 
 ---
 
