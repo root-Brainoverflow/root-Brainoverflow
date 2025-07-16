@@ -54,16 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <b>Mason Jeon's GitHub Statistics</b>
-</p>
-
-<p align="center">
-  ⭐️ <strong>Stars:</strong> 102 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🍴 <strong>Forks:</strong> 15 &nbsp;&nbsp;|&nbsp;&nbsp;
-  🔁 <strong>All-time contributions:</strong> 5,235<br>
-  📝 <strong>Lines of code changed:</strong> 1,144,719<br>
-  👀 <strong>Repository views (past two weeks):</strong> 180<br>
-  📦 <strong>Repositories with contributions:</strong> 123
+  <img src="https://img.shields.io/badge/Stars-102-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Forks-15-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/All--time_Contributions-5,235-181717?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Lines_of_Code_Changed-1,144,719-181717?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Repo_Views_(2weeks)-180-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repos_with_Contributions-123-181717?style=for-the-badge&logo=github" />
 </p>
 
 ---
