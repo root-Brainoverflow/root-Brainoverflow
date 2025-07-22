@@ -33,7 +33,7 @@
 | 🔐 Vulnerability Research | GDB, pwndbg, memory corruption, binary reversing |
 | 🌐 Network Security | TCP/IP internals, packet analysis, IDS/IPS fundamentals |
 | 🤖 AI for Security | ML/DL theory & application in threat detection |
-| ⚙️ Systems | Windows, MacOS, Linux, system internals |
+| ⚙️ Systems | Linux, Windows, MacOS, system internals |
 
 ---
 
