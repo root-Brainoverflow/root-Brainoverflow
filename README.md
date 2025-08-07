@@ -31,6 +31,7 @@
 | Area | Topics |
 |------|--------|
 | 🔐 Vulnerability Research | GDB, pwndbg, memory corruption, binary reversing |
+| 👾 Malware Analysis | Sigma, Behavior-Based Detection |
 | 🌐 Network Security | TCP/IP internals, packet analysis, IDS/IPS fundamentals |
 | 🤖 AI for Security | ML/DL theory & application in threat detection |
 | ⚙️ Systems | Linux, Windows, MacOS, system internals |
