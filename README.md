@@ -16,11 +16,11 @@
 ### 🛠️ Tech Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ExploitDev-22272E?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReverseEngineering-3D3B8E?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MachineLearning-1A1A1A?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepLearning-1A1A1A?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NetworkSecurity-1A1A1A?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-22272E?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetworkSecurity-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MalwareAnalysis-3D3B8E?style=for-the-badge&logo=virustotal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MachineLearning-1A1A1A?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
 </p>
 
 ---
